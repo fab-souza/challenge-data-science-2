@@ -1,0 +1,1001 @@
+idade_cliente,salario_cliente,tipo_casa_cliente,anos_trabalhados_cliente,motivo_emprestimo,pontuacao_emprestimo,valor_do_emprestimo,juros_emprestimo,inadimplencia_emprestimo,percentual_emprestimo_salario,historico_inadimplencia,a_quanto_tempo_tem_cartao_credito
+27,68000,Alugada,4,Reforma,A,8700,7.88,0,0.13,N,5
+24,12600,Alugada,2,Empreender,C,2500,13.11,1,0.2,S,2
+30,100000,Alugada,13,"Pagar dívidas",A,12000,7.88,0,0.12,N,9
+28,83000,Hipoteca,6,"Pagar dívidas",B,5000,NULL,0,0.06,N,9
+30,110400,Alugada,1,Empreender,D,14000,16.89,1,0.13,N,6
+31,26988,Alugada,NULL,Empreender,A,5800,6.62,0,0.21,N,9
+24,117996,Hipoteca,6,Empreender,E,18000,17.04,0,0.15,S,3
+27,24000,Alugada,2,Médico,A,1450,NULL,0,0.06,N,9
+21,21600,Alugada,NULL,"Pagar dívidas",A,6700,6.92,1,0.31,N,4
+21,26400,Alugada,NULL,Pessoal,D,7000,14.84,1,0.27,S,3
+25,39000,Alugada,9,Empreender,D,15200,16,1,0.39,N,3
+23,54000,Hipoteca,2,Empreender,A,7000,6.62,0,0.13,N,3
+35,52000,Alugada,2,Médico,B,3000,11.48,0,0.06,N,7
+22,42996,Alugada,2,"Pagar dívidas",C,14400,NULL,1,0.33,S,4
+26,90000,Hipoteca,10,Pessoal,B,13000,10.59,0,0.14,N,3
+22,66300,Alugada,3,Médico,D,7500,14.96,1,0.1,N,2
+26,65000,Hipoteca,11,Empreender,A,12000,7.9,0,0.18,N,2
+26,120000,Hipoteca,10,Reforma,D,10000,14.59,0,0.08,S,2
+28,81972,Alugada,4,"Pagar dívidas",B,18000,10.99,0,0.22,N,6
+25,76700,Hipoteca,1,Empreender,E,14800,19.42,0,0.19,S,4
+26,105000,Hipoteca,6,"Pagar dívidas",B,12000,11.99,0,0.11,N,2
+24,101000,Hipoteca,3,Educação,A,7000,NULL,1,0.07,N,4
+24,35364,Alugada,1,Médico,B,20000,12.53,1,0.57,N,4
+23,80000,Alugada,6,Empreender,A,6500,7.51,0,0.08,N,3
+26,38340,Hipoteca,7,Pessoal,B,2500,12.18,1,0.07,N,4
+23,60000,Própria,2,Médico,D,18500,15.33,0,0.31,N,2
+27,87360,Hipoteca,NULL,Reforma,B,7000,10.36,0,0.08,N,6
+22,50000,Própria,3,Educação,A,5000,7.29,0,0.1,N,4
+25,50000,Alugada,3,Pessoal,D,4000,14.61,0,0.08,S,4
+31,45000,Hipoteca,16,Empreender,B,6000,10.99,0,0.13,N,10
+32,62000,Hipoteca,3,Educação,B,20000,11.36,0,0.32,N,9
+22,36000,Própria,6,Educação,B,14500,10.99,0,0.4,N,3
+55,54000,Alugada,4,"Pagar dívidas",C,1000,13.99,1,0.02,N,27
+22,24000,Alugada,0,"Pagar dívidas",C,5200,13.49,0,0.22,S,2
+21,45176,Alugada,1,Médico,B,12000,11.49,0,0.27,N,3
+40,75000,Alugada,NULL,Educação,,5000,13.57,0,0.14,N,3
+32,86400,Hipoteca,16,Médico,A,8000,6.03,0,0.09,N,10
+NULL,45204,Hipoteca,4,,A,11700,10.74,0,0.26,N,2
+23,84000,Alugada,1,Empreender,A,10000,7.49,0,0.12,N,4
+31,60000,Hipoteca,5,Médico,A,7200,6.03,0,0.12,N,8
+23,45000,Alugada,4,Educação,A,9000,5.99,0,0.2,N,3
+22,26000,Própria,2,Educação,A,7100,7.49,0,0.27,N,2
+25,87000,Alugada,6,"Pagar dívidas",A,13000,7.29,0,0.15,N,2
+34,91000,Alugada,11,Médico,B,25000,11.36,0,0.27,N,5
+27,125000,Hipoteca,1,Reforma,A,24000,6.91,0,0.19,N,8
+22,41000,Alugada,2,"Pagar dívidas",D,3600,16.77,1,0.09,S,3
+23,32388,Hipoteca,0,Educação,B,6000,10.71,0,0.19,N,4
+29,45324,Hipoteca,4,Pessoal,D,15150,14.54,0,0.33,N,10
+36,37008,Alugada,8,Empreender,C,6000,14.79,0,0.16,S,14
+44,82000,Hipoteca,5,"Pagar dívidas",C,8400,12.84,1,0.1,S,17
+23,79996,Hipoteca,2,Educação,E,24000,16.32,0,0.3,S,3
+28,39000,Alugada,3,Empreender,B,5000,10.25,0,0.13,N,10
+22,45000,Hipoteca,6,Empreender,A,7000,8.94,0,0.16,N,3
+21,27996,Hipoteca,5,Educação,A,10000,9.63,0,0.36,N,4
+26,36000,Alugada,5,Médico,B,8550,10.25,1,0.24,N,2
+26,50000,Alugada,2,Empreender,A,7000,9.63,0,0.14,N,2
+22,80000,Alugada,1,Educação,B,18000,10.99,0,0.23,N,4
+35,50000,Hipoteca,5,Reforma,C,6000,13.49,0,0.12,N,6
+22,12600,Alugada,2,Pessoal,B,4000,10.37,1,0.32,N,4
+22,48000,Hipoteca,6,"Pagar dívidas",A,4400,5.99,0,0.09,N,3
+26,85000,Hipoteca,8,Médico,A,15000,7.88,0,0.18,N,4
+25,45000,Hipoteca,7,Educação,A,7500,8,0,0.17,N,3
+23,30000,Alugada,0,Pessoal,B,1925,12.18,0,0.06,N,2
+28,43200,Alugada,1,Médico,A,3000,7.49,0,0.07,N,9
+24,225000,Alugada,0,Médico,B,6000,NULL,0,0.03,N,4
+33,97000,Hipoteca,15,Pessoal,A,20000,6.17,0,0.21,N,8
+26,60000,Hipoteca,8,Reforma,B,12000,10.65,0,0.2,N,2
+NULL,40800,Hipoteca,7,,C,8500,NULL,0,0.23,N,6
+28,76000,Alugada,2,Médico,B,8500,NULL,0,0.11,N,5
+28,22000,Própria,5,Educação,A,8000,6.99,0,0.36,N,5
+22,45000,Alugada,3,Empreender,B,5000,12.42,0,0.11,N,2
+26,65219,Alugada,11,"Pagar dívidas",D,21000,14.09,1,0.32,N,3
+23,70000,Hipoteca,5,Educação,B,20000,12.21,0,0.29,N,4
+30,34000,Alugada,0,Médico,D,6500,16.32,0,NULL,,10
+34,25200,Alugada,NULL,Empreender,A,3000,7.66,0,0.12,N,8
+38,34296,Própria,1,Médico,C,12000,NULL,0,0.35,S,12
+30,57000,Hipoteca,2,Empreender,A,6000,7.51,0,0.11,N,8
+27,102000,Hipoteca,9,Pessoal,A,6000,7.49,0,0.06,N,9
+25,31200,Hipoteca,3,Médico,A,11200,5.42,0,0.36,N,2
+35,32900,Alugada,4,Reforma,C,4800,13.23,1,0.15,S,9
+32,58000,Alugada,4,Pessoal,B,12000,11.26,0,0.21,N,10
+24,29232,Hipoteca,1,,B,6000,NULL,1,NULL,N,3
+30,67000,Hipoteca,6,Reforma,A,10000,6.99,0,0.15,N,6
+26,80000,Hipoteca,10,Pessoal,B,25000,10.62,0,0.31,N,4
+25,42996,Própria,1,Empreender,D,7200,14.11,0,0.17,N,4
+24,56000,Hipoteca,2,Educação,C,5250,12.87,0,0.09,N,2
+39,18300,Alugada,0,Educação,D,1200,14.74,1,0.07,N,17
+22,60000,Própria,7,Empreender,D,15000,16.49,0,0.25,S,2
+21,41900,Alugada,2,Empreender,C,16000,12.84,1,0.38,S,2
+22,32000,Alugada,1,Educação,D,5400,16.29,1,0.17,S,2
+24,40944,Alugada,0,Médico,B,8200,11.36,0,0.2,N,4
+30,30000,Hipoteca,3,Reforma,B,4400,11.99,1,0.15,N,5
+23,60000,Alugada,0,Empreender,A,8400,7.49,0,0.14,N,3
+27,30000,Alugada,5,Pessoal,B,4975,10.37,0,0.17,N,10
+22,105000,Hipoteca,6,"Pagar dívidas",B,12800,11.83,0,0.12,N,3
+27,67200,Alugada,0,Pessoal,A,8000,6.03,0,0.12,N,5
+26,110000,Alugada,10,Educação,A,NULL,NULL,NULL,0.3,N,2
+27,55200,Própria,4,Educação,B,4000,NULL,0,0.07,N,10
+35,95028,Alugada,2,Reforma,D,5000,14.42,1,0.05,S,6
+22,48000,Alugada,2,"Pagar dívidas",A,9000,7.88,0,0.19,N,2
+22,71004,Alugada,6,Educação,B,1800,11.12,0,0.03,N,4
+26,47000,Alugada,0,Pessoal,B,8000,10,0,0.17,N,4
+26,75000,Própria,10,Empreender,B,7000,10.59,0,0.09,N,4
+32,160000,Hipoteca,2,Médico,B,3200,NULL,0,0.02,N,5
+24,55152,Hipoteca,8,Educação,B,16000,11.49,0,0.29,N,4
+25,52000,Alugada,9,Médico,C,17000,12.98,1,0.33,S,2
+34,89000,Alugada,3,Reforma,D,35000,18.25,1,0.39,N,8
+26,80000,Alugada,0,Reforma,A,8000,5.99,0,0.1,N,2
+36,24000,Hipoteca,2,"Pagar dívidas",A,1500,9.63,0,0.06,N,16
+31,78000,Alugada,1,Educação,A,14000,9.63,0,0.18,N,5
+23,65000,Alugada,0,Educação,B,10000,11.49,0,0.15,N,4
+24,96408,Alugada,1,Educação,C,7700,12.53,0,0.08,S,4
+29,48000,Alugada,2,Pessoal,B,15000,11.36,1,0.31,N,8
+31,201000,Hipoteca,3,Pessoal,B,15000,11.12,0,0.07,N,5
+25,42000,Hipoteca,3,Reforma,A,10000,5.42,0,0.24,N,2
+21,55000,Hipoteca,5,Educação,A,10500,7.51,0,0.19,N,3
+26,165000,Hipoteca,10,Educação,C,20000,13.22,0,0.12,S,4
+29,48000,Hipoteca,13,Pessoal,B,20000,NULL,0,0.42,N,9
+41,33000,Alugada,2,Médico,C,13750,13.79,1,0.42,S,11
+29,89004,Hipoteca,2,Educação,D,4800,14.11,0,0.05,S,8
+23,69000,Alugada,7,"Pagar dívidas",B,4800,10.75,0,0.07,N,2
+23,86000,Alugada,0,Empreender,B,4800,9.62,0,0.06,N,3
+48,32304,Hipoteca,22,Médico,B,15000,9.63,0,0.46,N,17
+49,74000,Hipoteca,20,"Pagar dívidas",E,12000,17.99,1,0.16,N,15
+24,74400,Alugada,1,Médico,A,3500,7.29,0,0.05,N,3
+25,155000,Hipoteca,9,Médico,A,18000,7.51,0,0.12,N,2
+23,24000,Alugada,0,Educação,B,6250,12.53,0,0.26,N,3
+29,175000,Hipoteca,2,Reforma,A,10000,NULL,0,0.06,N,9
+22,62000,Hipoteca,5,Médico,B,3000,8.7,0,0.05,N,3
+28,30000,Alugada,7,Empreender,B,10000,10.38,1,0.33,N,5
+22,88620,Hipoteca,6,"Pagar dívidas",A,24000,6.62,0,0.27,N,3
+31,36572,Alugada,NULL,Médico,A,7900,NULL,0,0.22,N,7
+39,78000,Alugada,3,Reforma,D,25000,16.02,1,0.32,N,17
+23,54000,Alugada,8,Empreender,B,12000,11.36,0,0.22,N,2
+36,60000,Alugada,0,Reforma,C,15000,13.57,0,0.25,N,12
+26,31200,Alugada,8,Pessoal,A,5000,8.63,0,0.16,N,2
+30,28800,Alugada,1,"Pagar dívidas",C,8000,12.73,0,0.28,N,10
+24,60000,Alugada,8,Pessoal,D,20000,13.87,1,0.33,N,4
+21,40000,Alugada,3,Educação,D,7000,14.46,0,0.17,N,3
+23,70000,Hipoteca,7,Educação,C,2000,13.49,0,0.03,S,2
+38,17108,Hipoteca,7,Educação,A,4375,7.51,1,0.26,N,17
+22,132000,Hipoteca,3,Médico,A,10000,7.66,0,0.08,N,2
+26,120000,Alugada,11,Reforma,C,10000,12.68,0,0.08,N,2
+23,54500,Alugada,2,"Pagar dívidas",A,8000,NULL,0,0.15,N,2
+27,NULL,Hipoteca,10,Médico,A,NULL,12.69,0,0.11,N,4
+26,54011,Alugada,10,Educação,D,9500,16.29,0,0.18,N,2
+43,62000,Hipoteca,2,Educação,B,20000,10.25,0,0.32,N,14
+24,31776,Alugada,6,Empreender,A,4700,8.94,0,0.15,N,3
+54,154000,Hipoteca,1,Pessoal,B,12000,12.69,0,0.08,N,26
+27,38500,Alugada,0,"Pagar dívidas",B,11500,12.42,0,0.3,N,9
+26,40272,Hipoteca,3,Educação,B,10000,11.86,0,0.25,N,3
+29,220000,Hipoteca,13,"Pagar dívidas",B,8500,10.37,0,0.04,N,5
+32,60000,Alugada,0,Pessoal,B,10000,12.42,0,0.17,N,9
+22,12000,Alugada,0,Educação,A,6700,7.66,1,0.56,N,4
+31,135000,Hipoteca,12,Educação,C,15000,13.85,0,0.11,S,9
+24,59964,Hipoteca,0,"Pagar dívidas",B,1275,10.99,1,0.02,N,4
+25,13440,Alugada,3,Médico,A,6000,7.49,1,0.45,N,3
+63,37000,Alugada,24,"Pagar dívidas",C,5450,15.96,1,0.15,N,22
+24,103000,Hipoteca,8,Reforma,B,6400,10.37,0,0.06,N,3
+26,66400,Alugada,6,Médico,A,6000,7.29,0,0.09,N,4
+23,60000,Alugada,1,"Pagar dívidas",A,9000,7.51,0,0.15,N,3
+24,49920,Alugada,0,Médico,C,7200,13.06,0,0.14,S,3
+24,66000,Hipoteca,8,Pessoal,D,15000,18.25,0,0.23,N,4
+24,28800,Hipoteca,5,"Pagar dívidas",C,5500,NULL,0,0.19,S,3
+26,30000,Alugada,4,"Pagar dívidas",B,12000,11.11,1,0.4,N,3
+31,46000,Alugada,6,Médico,D,9600,14.46,1,0.21,S,5
+24,43275,Alugada,4,Médico,C,17000,13.47,1,0.39,N,3
+36,28000,Hipoteca,1,Empreender,D,3075,15.62,1,0.11,S,12
+41,58000,Alugada,16,Pessoal,C,7500,11.03,0,0.13,S,16
+29,50004,Hipoteca,5,Pessoal,A,10000,5.99,0,0.2,N,5
+22,76296,Hipoteca,6,Empreender,A,18000,7.88,0,0.24,N,3
+25,85000,Alugada,NULL,Médico,E,1000,7.51,0,0.03,N,17
+26,87000,Hipoteca,9,"Pagar dívidas",C,25000,12.73,0,0.29,N,2
+23,77004,Hipoteca,6,Médico,A,12000,5.79,0,0.16,N,3
+26,32500,Hipoteca,8,"Pagar dívidas",C,3000,13.22,0,0.09,S,3
+32,33600,Própria,0,Empreender,D,8000,16.02,0,0.24,N,8
+23,24996,Própria,1,Educação,B,8000,11.26,0,0.32,N,2
+23,110000,Alugada,3,Educação,B,20000,12.42,0,0.18,N,3
+23,44000,Alugada,2,Médico,C,6000,14.22,0,0.14,S,4
+22,81800,Hipoteca,6,Educação,A,2500,6.39,0,0.03,N,2
+24,75000,Hipoteca,9,Reforma,A,11500,5.42,0,0.15,N,2
+23,74000,Alugada,7,Reforma,A,7000,6.03,1,0.09,N,3
+34,29004,Alugada,9,Educação,B,10000,11.83,1,0.34,N,5
+24,45000,Alugada,0,"Pagar dívidas",D,4000,15.99,1,0.09,N,4
+24,26000,Alugada,3,Médico,B,7850,9.96,0,0.3,N,2
+30,36996,Alugada,5,Educação,A,10000,8.9,0,0.27,N,6
+25,95004,Hipoteca,9,Educação,A,18000,7.51,0,0.19,N,4
+24,48000,Hipoteca,7,Médico,A,12000,7.29,0,0.25,N,3
+23,65000,Hipoteca,7,Educação,A,10500,6.03,0,0.16,N,4
+25,68000,Hipoteca,9,"Pagar dívidas",B,8000,NULL,0,0.12,N,3
+24,37000,Alugada,2,Médico,A,2000,5.42,0,0.05,N,4
+38,55000,Própria,5,,A,5300,NULL,0,0.17,N,7
+NULL,44208,Alugada,NULL,Médico,A,10000,7.88,0,0.15,N,2
+25,55000,,10,Educação,C,5000,12.62,0,0.1,N,3
+24,72000,Hipoteca,8,Educação,C,14000,14.65,1,0.19,S,4
+23,75000,Hipoteca,7,Empreender,B,15000,10.38,0,0.2,N,3
+22,75000,Alugada,6,Educação,B,24000,12.69,1,0.32,N,4
+29,80000,Alugada,5,Médico,B,12500,11.71,0,0.16,N,7
+42,54000,Alugada,4,"Pagar dívidas",C,16000,12.87,1,0.3,S,14
+23,44000,Hipoteca,0,Médico,A,5500,6.17,0,0.13,N,4
+32,NULL,Alugada,NULL,Médico,A,12000,14.54,0,0.27,N,2
+24,35000,Hipoteca,3,Médico,C,15000,14.27,0,0.43,N,2
+24,48000,Alugada,6,Educação,,6000,10.62,0,0.1,,2
+22,47940,Hipoteca,4,"Pagar dívidas",B,15000,NULL,0,0.31,N,4
+23,90000,Alugada,0,"Pagar dívidas",C,8000,13.35,0,0.09,S,3
+24,85000,Hipoteca,3,Reforma,A,NULL,NULL,0,0.1,N,2
+25,74800,Alugada,2,Médico,B,5000,12.69,NULL,NULL,N,3
+22,76000,,0,Educação,C,8700,NULL,0,0.13,N,5
+23,29376,Alugada,3,Empreender,A,5950,7.66,0,0.2,N,2
+28,48000,Alugada,5,"Pagar dívidas",B,15000,11.99,1,0.31,N,10
+22,22560,Alugada,3,Pessoal,D,4200,15.2,1,0.19,S,4
+26,20004,Hipoteca,4,Reforma,B,3600,NULL,0,0.18,N,4
+30,71000,Alugada,2,Reforma,A,12000,8.9,0,0.17,N,8
+21,45000,Alugada,3,Médico,B,9600,12.18,0,0.21,N,3
+30,45000,Alugada,2,Educação,A,13250,7.9,0,0.29,N,9
+23,24000,Própria,0,Educação,A,7000,7.14,0,0.29,N,3
+33,54000,Alugada,15,"Pagar dívidas",B,10000,10.99,0,0.19,N,8
+34,41004,Hipoteca,5,Reforma,C,16000,11.78,0,0.39,N,5
+25,120000,Alugada,3,Pessoal,B,12000,9.01,0,0.1,N,2
+43,72800,Hipoteca,7,Reforma,C,20000,12.84,0,0.27,S,12
+31,68000,Hipoteca,15,Pessoal,A,13600,7.88,0,0.2,N,9
+25,70000,Hipoteca,1,"Pagar dívidas",C,11300,14.65,0,0.16,S,2
+28,30422,Própria,12,Pessoal,A,5000,8.49,0,0.16,N,9
+32,32678,Hipoteca,10,"Pagar dívidas",C,3075,15.23,0,0.09,N,6
+36,69000,Alugada,20,Empreender,,12000,NULL,0,NULL,N,2
+26,35000,Própria,NULL,Pessoal,B,7200,11.11,0,0.21,N,4
+22,49000,Hipoteca,6,Empreender,A,4000,8.94,0,0.08,N,2
+23,90000,Alugada,4,Empreender,A,10000,7.51,0,0.11,N,2
+37,35000,,NULL,Médico,A,14900,13.57,0,NULL,N,3
+24,48000,Alugada,8,Médico,C,4000,5.99,NULL,0.07,N,6
+29,37000,Alugada,1,Médico,B,6500,NULL,0,0.18,N,8
+26,127000,Hipoteca,10,Educação,A,6000,5.42,0,0.05,N,3
+29,58000,Hipoteca,8,"Pagar dívidas",A,1800,6.76,0,0.03,N,8
+32,25000,Alugada,4,Médico,C,11700,12.68,1,0.47,S,10
+24,65158,Hipoteca,9,Empreender,B,18000,10.25,0,0.28,N,4
+31,72000,Alugada,6,"Pagar dívidas",B,21000,11.99,1,0.29,N,6
+37,70000,Hipoteca,3,Educação,D,15000,15.2,0,0.21,N,15
+26,20000,Hipoteca,1,Pessoal,A,1500,7.74,0,0.07,N,3
+27,58000,Alugada,11,Empreender,A,7000,NULL,0,0.12,N,9
+25,46000,Hipoteca,5,Educação,B,23500,10.25,0,0.51,N,4
+37,42000,Alugada,0,Médico,A,12000,NULL,0,0.29,N,13
+35,35000,Hipoteca,5,Educação,B,5600,11.49,0,0.16,N,6
+24,60000,Própria,9,Reforma,B,15000,11.83,0,0.25,N,3
+26,114000,Hipoteca,10,Pessoal,A,14400,7.14,0,0.13,N,2
+23,50000,Alugada,4,Empreender,B,18225,10.74,1,0.36,N,3
+26,108000,Hipoteca,4,Pessoal,A,9000,5.79,0,0.08,N,2
+36,15000,Própria,2,Pessoal,C,5000,13.92,1,0.33,S,15
+29,NULL,,11,Médico,A,4500,17.99,1,0.19,S,3
+24,74700,Hipoteca,4,Empreender,B,19750,11.12,0,0.26,N,3
+29,115000,Hipoteca,3,Médico,C,22000,15.23,0,0.19,S,7
+24,58000,Alugada,3,Empreender,C,6000,12.87,0,0.1,S,2
+21,18000,Alugada,2,Pessoal,B,4500,10.38,1,0.25,N,2
+25,191000,Hipoteca,1,Médico,B,10000,12.53,0,0.05,N,4
+24,145000,Hipoteca,0,Pessoal,B,7000,10.99,0,0.05,N,2
+53,28000,Alugada,2,"Pagar dívidas",C,7000,6,0,0.25,N,26
+27,90000,Alugada,4,Reforma,A,19200,6.99,0,0.21,N,8
+26,35000,Alugada,10,Educação,B,12875,NULL,1,0.37,N,3
+24,87996,Alugada,8,"Pagar dívidas",D,10000,14.84,1,0.11,S,2
+36,72000,Própria,5,Empreender,B,6000,11.36,0,0.08,N,17
+27,97000,Hipoteca,11,Pessoal,B,3600,9.25,0,0.04,N,7
+23,48000,Hipoteca,7,Empreender,A,14125,NULL,0,0.29,N,2
+32,42000,Alugada,4,"Pagar dívidas",B,5000,10.08,0,0.12,N,9
+24,39000,Alugada,2,"Pagar dívidas",E,16000,19.91,1,0.41,S,3
+22,85000,Alugada,0,"Pagar dívidas",A,10000,7.66,0,0.12,N,3
+24,56000,Alugada,0,Empreender,C,12000,14.26,0,0.21,S,2
+30,270000,Hipoteca,7,Reforma,E,35000,19.69,0,0.13,N,8
+41,55000,Alugada,9,"Pagar dívidas",B,12000,12.53,0,0.22,N,15
+22,75000,Alugada,0,"Pagar dívidas",A,8000,5.99,0,0.11,N,3
+25,50000,Alugada,0,Reforma,B,6400,9.91,0,0.13,N,4
+26,75000,Hipoteca,2,Empreender,A,4000,5.79,0,0.05,N,3
+34,66000,Alugada,5,"Pagar dívidas",D,12000,14.3,1,0.18,N,6
+22,46104,Alugada,4,Educação,A,8775,7.29,0,0.19,N,2
+48,30000,Alugada,0,"Pagar dívidas",B,6000,12.42,1,0.2,N,12
+28,20000,Alugada,4,Pessoal,D,4000,14.59,0,0.2,N,9
+27,120000,Hipoteca,11,Educação,E,20000,NULL,0,0.17,S,7
+23,68000,Hipoteca,5,Médico,B,11500,9.99,0,0.17,N,2
+31,46992,Alugada,1,Médico,B,11000,11.14,0,0.23,N,9
+23,39000,Alugada,1,Pessoal,B,12000,10.99,1,0.31,N,2
+30,52000,Hipoteca,2,Pessoal,C,18500,10.91,0,0.36,N,7
+26,59497,Própria,2,Médico,E,7000,17.88,1,0.1,N,2
+24,79050,Alugada,2,Médico,B,2100,9.91,1,0.02,N,4
+30,75000,Alugada,2,Médico,C,6000,12.68,0,0.08,N,8
+29,32997,Alugada,7,"Pagar dívidas",A,10000,5.79,0,0.3,N,7
+NULL,70000,Alugada,5,Educação,B,13225,16.11,0,NULL,S,7
+22,24000,Alugada,6,Médico,B,6000,10.65,0,0.25,N,4
+22,22800,Alugada,4,Educação,C,5000,13.85,0,0.22,S,2
+35,30000,Hipoteca,11,Médico,B,11000,10.65,0,0.37,N,10
+21,38400,Alugada,5,Empreender,B,2000,NULL,0,0.05,N,2
+23,24000,Própria,2,Educação,D,8000,15.62,0,0.33,N,2
+23,25200,Alugada,7,Educação,B,7200,11.86,1,0.29,N,4
+33,75000,Hipoteca,6,Empreender,A,6000,7.51,0,0.08,N,5
+21,45192,Hipoteca,0,Pessoal,B,11700,10.74,0,0.26,N,2
+NULL,83400,Hipoteca,2,"Pagar dívidas",C,2200,7.49,1,NULL,N,6
+28,56000,Própria,10,Reforma,C,12000,14.72,0,0.21,S,7
+24,46809,Alugada,4,"Pagar dívidas",B,5000,12.18,0,0.11,N,4
+26,84996,Alugada,0,Médico,B,9000,11.26,0,0.11,N,2
+32,52500,Hipoteca,15,"Pagar dívidas",A,9500,6.92,0,0.18,N,7
+23,64000,Alugada,7,Educação,D,10325,12.92,1,0.16,S,2
+46,105398,Hipoteca,9,Reforma,E,20700,17.43,0,0.2,N,12
+25,25000,Alugada,0,Médico,C,8500,12.53,1,0.34,S,2
+27,35000,Alugada,8,Pessoal,B,12000,9.91,1,0.34,N,8
+33,56312,Alugada,2,Reforma,B,3000,11.71,0,0.05,N,9
+30,144000,Hipoteca,12,Pessoal,C,35000,12.68,0,0.24,N,8
+32,30000,Hipoteca,6,Empreender,A,10000,7.51,0,0.33,N,9
+34,33666,Alugada,4,"Pagar dívidas",D,8000,17.49,1,0.24,S,5
+23,70000,Alugada,1,Médico,B,17000,8.88,0,0.24,N,4
+27,86875,Hipoteca,5,Empreender,B,8000,10.59,0,0.09,N,10
+26,45000,Alugada,3,Médico,B,1500,10.25,0,0.03,N,4
+22,50000,Hipoteca,6,Pessoal,A,7800,6.62,0,0.16,N,3
+29,19200,Alugada,1,"Pagar dívidas",A,2000,5.99,1,0.1,N,6
+32,300000,Hipoteca,2,Médico,C,24000,12.87,0,0.08,N,10
+28,115000,Hipoteca,11,Reforma,A,5000,7.51,0,0.04,N,8
+29,63000,Alugada,13,Médico,A,10000,7.49,0,0.16,N,5
+25,28800,Alugada,8,Educação,B,6800,9.63,0,0.24,N,3
+24,47000,Alugada,8,"Pagar dívidas",B,NULL,11.49,0,0.19,,4
+42,85000,Alugada,3,Empreender,C,5750,12.99,0,0.07,S,15
+26,110400,Hipoteca,3,Pessoal,F,9800,NULL,0,0.09,S,3
+24,30000,Alugada,0,Médico,C,4600,NULL,0,0.15,S,2
+36,72000,Hipoteca,4,Reforma,B,13000,NULL,0,0.18,N,13
+23,25000,Alugada,3,Médico,B,5600,11.11,0,0.22,N,4
+21,39600,Alugada,3,Educação,D,7000,14.96,0,0.18,S,2
+27,56004,Hipoteca,4,Pessoal,A,3100,9.32,0,0.06,N,7
+22,48000,Alugada,6,Médico,A,16500,8.9,1,0.34,N,4
+24,72000,Alugada,5,Reforma,B,8000,10,0,0.11,N,2
+25,42500,Alugada,1,"Pagar dívidas",B,12000,12.69,0,0.28,N,3
+58,68000,Hipoteca,1,Pessoal,B,8000,10.99,0,0.12,N,29
+25,80000,Hipoteca,9,Empreender,E,4000,19.03,0,0.05,S,3
+24,25000,Alugada,0,Reforma,B,8500,12.21,1,0.34,N,2
+22,75000,Alugada,2,Educação,B,19600,12.42,0,0.26,N,4
+36,62000,Alugada,5,"Pagar dívidas",A,9600,9.32,0,0.15,N,11
+25,44000,Hipoteca,4,Médico,D,5550,14.11,1,0.13,S,4
+22,40000,Própria,0,Educação,B,6000,11.48,0,0.15,N,4
+37,170004,Hipoteca,1,Reforma,E,25000,16.45,0,0.15,S,13
+35,45000,Alugada,3,Médico,A,5500,6.92,0,0.12,N,6
+22,40800,Hipoteca,7,Educação,C,17050,NULL,0,0.42,S,2
+35,15000,Própria,3,Médico,A,3700,9.32,1,0.25,N,5
+37,780000,Alugada,9,Empreender,B,7500,12.18,0,0.01,N,13
+26,47000,Alugada,0,Reforma,D,25000,15.28,1,0.53,S,2
+27,14400,Alugada,3,Educação,F,2500,18.3,1,0.17,N,7
+22,52800,Alugada,3,Educação,A,5600,7.29,0,0.11,N,3
+37,25000,Alugada,0,Empreender,D,2775,15.65,1,0.11,S,14
+38,35000,Hipoteca,7,"Pagar dívidas",A,13075,7.29,0,0.37,N,16
+27,100000,Alugada,0,Empreender,A,18000,7.88,0,0.18,N,5
+33,612000,Alugada,3,Médico,C,5950,12.73,0,0.01,S,10
+41,24000,Hipoteca,5,Médico,A,1500,NULL,0,0.06,N,15
+24,114000,Hipoteca,8,Empreender,B,4000,NULL,0,0.04,N,2
+22,96000,Hipoteca,3,Educação,C,11400,13.04,0,0.12,S,2
+24,72000,Hipoteca,0,Educação,B,9000,NULL,0,0.13,N,2
+25,28128,Alugada,2,Educação,D,7500,15.33,1,0.27,S,3
+24,24000,,0,Empreender,D,7000,10.38,0,NULL,N,4
+24,80000,Alugada,5,Empreender,B,10000,11.14,0,0.13,N,4
+33,54000,Hipoteca,7,Empreender,C,7500,13.22,0,0.14,N,10
+29,41004,Alugada,6,Pessoal,B,12000,10,0,0.29,N,7
+23,60000,Alugada,2,Empreender,A,9000,NULL,0,0.15,N,4
+29,54000,Alugada,0,Pessoal,D,10000,14.96,1,0.19,N,9
+23,44400,Alugada,2,"Pagar dívidas",A,7100,6.99,1,0.16,N,3
+36,130000,Alugada,3,"Pagar dívidas",B,14000,10.37,0,0.11,N,14
+26,36000,Hipoteca,8,Reforma,C,6000,12.29,0,0.17,S,4
+31,34800,Hipoteca,3,Empreender,D,2000,15.65,0,0.06,N,6
+31,70000,Hipoteca,11,Educação,A,2000,7.4,0,0.03,N,7
+28,87950,Hipoteca,12,Pessoal,B,24000,10.75,0,0.27,N,7
+38,18000,Alugada,4,Pessoal,C,3000,13.23,1,0.17,N,17
+22,110000,Hipoteca,2,Empreender,B,9000,11.11,0,0.08,N,4
+45,38268,Hipoteca,14,Pessoal,B,8400,12.18,0,0.22,N,11
+22,75000,Hipoteca,4,Educação,C,15000,13.61,0,0.2,N,4
+26,213000,Hipoteca,6,Educação,B,35000,10.65,1,0.16,N,2
+30,43200,Hipoteca,14,Pessoal,B,5000,11.36,0,0.12,N,9
+26,37000,Alugada,2,Empreender,A,2500,7.14,0,0.07,N,3
+27,72000,Alugada,6,Empreender,A,20000,8.9,0,0.28,N,5
+27,150000,Hipoteca,1,Empreender,B,12000,11.89,0,0.08,N,5
+23,46000,Alugada,1,Educação,A,7000,7.4,0,0.15,N,4
+22,95000,Hipoteca,1,Educação,C,7200,12.23,0,0.08,S,4
+31,50000,Hipoteca,5,Empreender,A,2000,6.39,0,0.04,N,7
+23,21000,Alugada,3,Pessoal,,7600,NULL,1,0.17,S,8
+22,63800,Hipoteca,7,"Pagar dívidas",B,25000,11.36,0,0.39,N,4
+23,87550,Alugada,7,Médico,A,18000,7.51,1,0.17,N,3
+25,47000,Alugada,9,Reforma,D,19750,15.7,1,0.42,N,4
+24,78000,Alugada,1,"Pagar dívidas",B,3500,11.83,1,0.04,N,3
+24,30000,Própria,7,Reforma,C,10000,12.61,0,0.33,S,2
+23,24000,Alugada,1,Empreender,B,14075,NULL,1,0.59,N,3
+24,44000,Alugada,1,Empreender,D,10000,NULL,1,0.23,S,3
+22,45000,Alugada,6,"Pagar dívidas",B,16000,10.59,1,0.36,N,4
+23,48000,Alugada,3,"Pagar dívidas",A,8000,8.49,0,0.17,N,2
+41,90000,Hipoteca,4,Empreender,C,15000,13.49,0,0.17,N,15
+23,115000,Hipoteca,3,Educação,B,10000,10.59,0,0.09,N,2
+39,23500,Alugada,14,Pessoal,D,5850,15.2,0,0.25,N,12
+24,57600,Alugada,8,Educação,C,2500,14.72,0,0.04,S,3
+27,44630,Própria,10,Médico,B,10825,10.99,0,0.24,N,8
+24,30000,Alugada,8,Médico,B,3000,11.86,0,0.1,N,4
+22,85500,Hipoteca,3,Empreender,D,18000,NULL,0,0.21,N,4
+27,28800,Alugada,0,Educação,A,3000,7.88,1,0.1,N,7
+27,22800,Hipoteca,11,Médico,B,2500,10.99,0,0.11,N,10
+22,44172,Alugada,4,Pessoal,B,15000,10.37,1,0.34,N,3
+24,85000,Hipoteca,8,Educação,B,20000,11.11,0,0.24,N,4
+21,57192,Hipoteca,0,Médico,A,8000,7.49,0,0.14,N,3
+26,53000,Própria,8,Pessoal,B,16000,10.25,0,0.3,N,2
+26,40000,Alugada,1,Médico,C,5000,14.26,0,0.13,S,2
+25,94000,Hipoteca,5,Médico,B,20000,NULL,0,0.21,N,4
+24,89000,Própria,7,Reforma,D,15000,17.58,0,0.17,N,4
+24,62400,Hipoteca,8,,A,1500,NULL,0,0.03,S,2
+25,62050,Hipoteca,4,Médico,D,5400,15.21,1,0.07,S,3
+23,75000,Própria,5,Empreender,A,10000,6.92,0,0.13,N,2
+22,84000,Hipoteca,6,Pessoal,B,3900,11.71,0,0.05,N,4
+36,37000,Hipoteca,5,Médico,E,3000,18.39,1,0.08,S,15
+24,67200,Alugada,4,Educação,B,5000,NULL,0,0.07,N,4
+26,41400,Alugada,5,Médico,B,7300,9.45,0,0.18,N,2
+33,25200,Alugada,3,Médico,E,1600,16.69,1,0.06,N,6
+29,27840,Alugada,0,Pessoal,E,8575,19.42,1,0.31,N,8
+23,30000,Alugada,7,Educação,B,3600,9.7,0,0.12,N,3
+35,98320,Hipoteca,15,Pessoal,B,10425,11.49,0,0.11,N,9
+37,48000,Própria,8,Pessoal,A,2500,6.03,0,0.05,N,11
+27,146000,Hipoteca,5,Médico,A,2500,8.49,0,0.02,N,5
+25,144996,Hipoteca,2,Educação,E,25000,16.35,0,0.17,S,2
+25,23387,Alugada,2,Pessoal,A,10000,7.51,1,0.43,N,4
+22,35000,Alugada,2,Empreender,C,4500,14.27,0,0.13,S,2
+28,38000,Hipoteca,5,Empreender,A,8400,7.51,0,0.22,N,7
+46,30000,Alugada,15,"Pagar dívidas",C,10000,13.49,1,0.33,N,12
+28,50000,Hipoteca,3,"Pagar dívidas",A,5000,7.74,0,0.1,N,6
+23,67700,,7,Educação,,2700,11.86,0,0.02,N,2
+22,54000,Alugada,6,Educação,C,10000,13.79,1,0.19,N,4
+25,35004,Alugada,3,Pessoal,A,5000,8.94,0,0.14,N,2
+24,31200,Alugada,3,Pessoal,C,2000,14.65,0,0.06,S,2
+39,65000,Hipoteca,17,Educação,A,15000,7.9,0,0.23,N,14
+23,65000,Alugada,0,Médico,A,15000,7.88,0,0.23,N,3
+22,50000,Própria,6,Empreender,A,6400,6.92,0,0.13,N,4
+24,95000,Alugada,3,"Pagar dívidas",A,18000,8.49,0,0.19,N,4
+21,18000,Alugada,1,Pessoal,A,3200,8.49,1,0.18,N,3
+32,44500,Própria,3,Educação,A,15000,7.51,0,0.34,N,5
+28,61000,Alugada,9,Pessoal,B,25000,9.91,1,0.41,N,7
+24,38000,Alugada,0,Empreender,B,12000,11.89,1,0.32,N,3
+23,48000,Alugada,0,Médico,D,20000,14.96,1,0.42,N,3
+24,80004,Própria,3,Reforma,C,2425,15.27,0,0.03,S,4
+27,75000,Alugada,2,Educação,C,8000,13.49,0,0.11,S,5
+25,35500,Alugada,5,Médico,B,4000,10.99,0,0.11,N,3
+26,65000,Alugada,0,Reforma,C,4800,13.72,0,0.07,N,2
+33,48000,Hipoteca,2,Reforma,A,7500,8,0,0.16,N,10
+22,30000,Própria,5,Pessoal,B,3000,10.36,0,0.1,N,2
+30,62000,Alugada,14,Médico,B,12000,11.71,0,0.19,N,9
+21,43000,Alugada,NULL,Empreender,D,17525,12.72,0,0.12,,7
+22,108000,Alugada,6,Educação,B,28000,NULL,1,0.26,N,4
+25,44000,Alugada,9,Médico,C,10000,12.68,0,0.23,S,4
+41,24000,Própria,3,Educação,C,4500,12.99,0,0.19,S,14
+25,84000,Hipoteca,4,"Pagar dívidas",A,8500,6.62,0,0.1,N,4
+26,60000,Hipoteca,10,Pessoal,A,1200,7.4,0,0.02,N,4
+21,30000,Alugada,2,Médico,A,4150,6.76,0,0.14,N,3
+28,75000,Alugada,7,"Pagar dívidas",A,3000,7.68,0,0.04,N,7
+31,125000,Própria,5,Médico,A,30000,7.51,0,0.24,N,9
+24,37004,Alugada,2,Empreender,D,5500,15.05,1,0.15,N,4
+43,350000,Hipoteca,3,Pessoal,B,18000,11.49,0,0.05,N,14
+24,70000,Hipoteca,8,Médico,B,1600,10.99,0,0.02,N,3
+30,30000,Alugada,1,Pessoal,B,14500,NULL,1,0.48,N,8
+25,65000,Hipoteca,9,Pessoal,A,5000,7.29,0,0.08,N,4
+39,20400,Alugada,3,Médico,C,6000,15.27,0,0.29,S,13
+26,26400,Própria,8,,A,17000,7.88,1,NULL,N,6
+32,45000,Alugada,3,Educação,C,3000,12.61,0,0.07,S,8
+24,113000,Hipoteca,5,Educação,B,17950,11.99,0,0.16,N,4
+69,24000,Alugada,3,Médico,A,6000,6.62,0,0.25,N,20
+27,39996,Alugada,3,Pessoal,D,10000,15.37,0,0.25,S,8
+31,24000,Alugada,3,Educação,A,6000,8.49,0,0.25,N,5
+29,101000,Própria,6,Reforma,B,12000,12.18,0,0.12,N,8
+29,63755,Hipoteca,14,Médico,C,3000,NULL,0,0.05,S,10
+46,57359,Hipoteca,3,"Pagar dívidas",A,9000,6.92,0,0.16,N,14
+28,72000,Hipoteca,9,Reforma,B,18000,11.89,0,0.25,N,8
+28,52000,Alugada,2,Pessoal,B,10000,12.69,0,0.19,N,7
+26,30576,Hipoteca,10,Médico,D,3000,14.46,1,0.1,S,2
+23,24000,Própria,7,Educação,A,5000,7.49,0,0.21,N,2
+24,49000,Hipoteca,2,Empreender,D,7000,13.17,0,0.14,S,4
+27,26400,Alugada,1,Médico,C,2000,13.61,0,0.08,N,10
+25,24000,Alugada,2,Médico,A,10625,6.03,1,0.44,N,2
+24,114000,Hipoteca,2,"Pagar dívidas",B,15000,9.76,0,0.13,N,3
+34,120000,Própria,4,Empreender,B,7800,10.99,0,0.07,N,9
+28,34000,Alugada,1,Empreender,B,4800,11.49,0,0.14,N,7
+23,55000,Hipoteca,2,Educação,A,7000,8.59,0,0.13,N,2
+24,50700,Hipoteca,8,Educação,A,4500,8.9,0,0.09,N,4
+29,46000,Hipoteca,3,Reforma,C,7500,14.35,0,0.16,S,5
+22,32004,Própria,0,Educação,A,6600,9.07,0,0.21,N,3
+23,35000,Hipoteca,7,Educação,F,15000,18.43,0,0.43,S,2
+25,96000,Alugada,9,Reforma,A,7075,5.99,0,0.07,N,4
+27,180000,Alugada,4,Pessoal,B,8000,10.37,0,0.04,N,5
+28,90700,Hipoteca,11,Reforma,A,20000,6.91,0,0.22,N,8
+24,65000,Alugada,4,Educação,D,21250,15.95,1,0.33,S,4
+32,28800,Alugada,4,Pessoal,E,14500,16.7,1,0.5,N,10
+27,40000,Alugada,4,Educação,A,2500,6.99,0,0.06,N,5
+22,81600,Hipoteca,6,Pessoal,A,1300,6.39,0,0.02,N,3
+26,27000,Alugada,9,"Pagar dívidas",A,11000,8.9,1,0.41,N,3
+35,70360,Alugada,8,Educação,A,10000,6.62,0,0.14,N,5
+31,72250,Outros,6,Médico,F,25000,17.03,1,0.29,S,5
+23,73500,Alugada,3,Pessoal,B,15000,11.89,0,0.2,N,3
+30,73000,Alugada,15,Pessoal,B,5500,9.99,0,0.08,N,5
+23,48000,Alugada,2,Educação,B,16000,10,1,0.33,N,4
+29,32000,Hipoteca,13,Reforma,A,8000,5.99,0,0.25,N,7
+24,39996,Alugada,1,Médico,B,16000,10.71,1,0.4,N,2
+25,39000,Alugada,9,Médico,D,7500,15.62,1,0.19,S,2
+27,56253,Alugada,11,Empreender,B,10000,11.36,0,0.18,N,8
+33,51000,Hipoteca,12,Médico,A,7200,6.76,0,0.14,N,5
+28,39000,Alugada,6,Médico,D,8000,14.91,1,0.21,S,7
+27,38400,Alugada,6,Médico,B,5000,9.88,0,0.13,N,10
+27,55812,Alugada,3,"Pagar dívidas",A,10000,6.54,0,0.18,N,10
+39,65000,Hipoteca,3,Educação,D,6000,15.62,0,0.09,S,14
+25,19000,Alugada,0,"Pagar dívidas",C,750,12.29,0,0.04,S,4
+22,28000,Hipoteca,NULL,"Pagar dívidas",B,7000,11.49,NULL,0.11,N,15
+22,60350,Hipoteca,6,Médico,D,35000,16.89,1,0.49,N,3
+22,50000,Hipoteca,0,"Pagar dívidas",A,12800,5.79,0,0.26,N,2
+24,60000,Hipoteca,8,Empreender,A,2800,9.32,0,0.05,N,4
+23,30000,Alugada,3,Pessoal,A,3600,5.99,0,0.12,N,2
+23,45000,Alugada,1,"Pagar dívidas",C,2000,13.49,0,0.04,N,2
+22,86000,Alugada,6,Médico,A,6000,5.42,0,0.07,N,3
+45,34800,Alugada,6,Médico,C,4000,13.49,0,0.11,N,15
+25,55000,Hipoteca,9,"Pagar dívidas",A,17000,6.91,0,0.31,N,4
+25,35000,Alugada,5,Empreender,B,9600,9.91,0,0.27,N,2
+33,30000,Alugada,0,"Pagar dívidas",A,6500,8.49,0,0.22,N,10
+24,36000,Alugada,7,"Pagar dívidas",A,13000,7.29,1,0.36,N,3
+25,125000,Hipoteca,5,,E,8000,16.35,0,NULL,S,5
+22,54000,Alugada,4,"Pagar dívidas",C,9000,15.96,0,0.17,S,3
+22,45000,Alugada,1,Empreender,E,10000,NULL,1,0.22,N,2
+29,92250,Alugada,2,Médico,B,13000,10.99,0,0.14,N,9
+23,38400,Alugada,5,Educação,B,13000,11.71,1,0.34,N,3
+27,12000,Própria,0,Educação,D,8125,14.42,1,0.68,S,5
+23,96000,Alugada,1,Médico,C,20000,13.04,0,0.21,N,3
+34,60353,Alugada,13,Pessoal,B,8500,10.65,0,0.14,N,8
+25,60000,Hipoteca,6,Empreender,D,8400,16.89,0,0.14,N,3
+32,140000,Hipoteca,9,Educação,A,11000,5.42,0,0.08,N,8
+39,60000,Alugada,2,"Pagar dívidas",C,6000,15.27,0,0.1,N,14
+29,52000,Hipoteca,6,Empreender,D,12000,15.65,0,0.23,N,8
+21,18000,,NULL,"Pagar dívidas",C,12000,NULL,0,0.19,N,16
+23,54000,Alugada,7,Médico,C,9500,14.65,0,0.18,N,2
+23,40000,Própria,NULL,Empreender,A,7500,5.42,0,0.19,N,2
+40,142000,Hipoteca,2,Pessoal,D,25000,15.31,0,0.18,N,14
+30,70000,Alugada,3,"Pagar dívidas",C,7200,NULL,0,0.1,S,10
+44,109000,Hipoteca,17,Médico,C,12800,13.79,0,0.12,S,12
+25,180488,Hipoteca,9,Reforma,C,24000,12.87,0,0.13,N,2
+53,95000,Própria,24,Pessoal,A,6000,5.42,0,0.06,N,30
+40,110000,Hipoteca,14,Pessoal,B,5000,11.49,0,0.05,N,14
+25,48000,Hipoteca,6,Educação,B,24250,10.25,0,0.51,N,3
+40,75000,Alugada,3,Educação,A,6500,7.9,0,0.09,N,15
+23,28000,Alugada,5,Pessoal,B,6000,9.63,0,0.21,N,4
+22,22000,Hipoteca,3,Empreender,A,6500,NULL,0,0.3,N,4
+35,60000,Alugada,3,Reforma,A,8000,5.79,0,0.13,N,10
+36,39520,Própria,14,Empreender,A,5000,5.79,0,0.13,N,16
+26,210000,Própria,10,Pessoal,B,22000,11.83,0,0.1,N,4
+30,118000,Hipoteca,0,Pessoal,C,5000,13.92,0,0.04,S,9
+23,71500,Alugada,3,"Pagar dívidas",D,30000,NULL,1,0.42,N,4
+29,83300,Hipoteca,5,Médico,E,5000,16.95,1,0.05,S,6
+22,51480,Hipoteca,4,Pessoal,B,3000,11.83,0,0.06,N,2
+28,78000,Hipoteca,7,Reforma,B,10000,9.91,0,0.13,N,5
+NULL,NULL,Hipoteca,6,Empreender,A,10000,13.85,1,0.08,S,5
+29,37920,Alugada,2,Médico,C,12000,13.48,1,0.32,N,8
+21,26124,Alugada,3,Educação,D,8875,15.62,1,0.34,S,3
+24,122000,Alugada,4,Educação,B,15000,11.58,0,0.12,N,3
+28,48000,Própria,1,Reforma,D,12000,14.54,0,0.25,N,10
+46,33099,Hipoteca,2,Médico,E,12000,NULL,1,0.36,N,14
+36,80000,Hipoteca,9,Educação,C,6000,NULL,0,0.07,N,11
+24,68000,Hipoteca,7,Educação,A,5000,11.86,NULL,NULL,N,10
+30,232050,Hipoteca,14,Médico,E,25000,17.93,1,0.09,S,9
+31,57000,Alugada,2,Educação,B,7500,12.53,0,0.13,N,9
+25,48000,Alugada,3,Médico,C,9000,13.79,0,0.19,S,2
+27,65000,Hipoteca,5,Empreender,B,10000,12.42,0,0.15,N,6
+28,48000,Hipoteca,NULL,"Pagar dívidas",C,5000,14.65,0,0.1,S,7
+44,70000,Alugada,15,"Pagar dívidas",A,6000,5.79,0,0.09,N,16
+23,43000,Alugada,1,Educação,B,10000,9.25,0,0.23,N,3
+25,NULL,Hipoteca,NULL,"Pagar dívidas",B,1500,7.29,0,0.05,N,3
+25,24000,Alugada,3,Educação,A,5000,6.92,0,0.21,N,4
+25,30576,Hipoteca,5,"Pagar dívidas",A,10000,6.03,0,0.33,N,4
+25,78600,Alugada,0,Médico,C,8400,13.48,0,0.11,N,4
+21,45000,Alugada,3,Pessoal,A,3200,6.54,0,0.07,N,4
+26,40000,Alugada,3,Empreender,C,9600,14.27,0,0.24,N,4
+40,44000,Alugada,0,Pessoal,A,6000,NULL,1,0.14,N,12
+22,39300,Hipoteca,6,Médico,B,7000,9.62,0,0.18,N,4
+26,41000,Alugada,8,"Pagar dívidas",B,3000,12.42,0,0.07,N,3
+22,25062,Própria,4,"Pagar dívidas",D,4000,16.49,0,0.16,S,2
+25,188000,Hipoteca,9,Reforma,D,25000,13.24,1,0.13,S,4
+22,24000,Própria,1,Empreender,A,8000,7.51,0,0.33,N,3
+41,69000,Alugada,15,"Pagar dívidas",D,4000,16.29,1,0.06,N,13
+24,78000,Hipoteca,8,"Pagar dívidas",A,3600,5.42,0,0.05,N,4
+22,69077,Hipoteca,2,Pessoal,A,10000,7.51,0,0.14,N,3
+27,57996,Alugada,8,"Pagar dívidas",C,13000,13.92,0,0.22,S,7
+29,70000,Alugada,2,Empreender,A,6125,7.49,0,0.09,N,8
+27,89904,Alugada,1,Educação,B,10000,10,0,0.11,N,5
+32,45000,Hipoteca,3,"Pagar dívidas",A,5000,5.79,0,0.11,N,5
+29,77800,Alugada,2,Reforma,B,9000,12.42,0,0.12,N,6
+33,15500,Alugada,1,Médico,A,3000,7.51,1,0.19,N,5
+33,50500,Hipoteca,2,Médico,D,4000,NULL,1,0.08,S,8
+26,65000,Hipoteca,NULL,Educação,B,6000,11.36,0,0.09,N,4
+23,95000,Alugada,6,"Pagar dívidas",B,12000,11.71,0,0.13,N,3
+22,61000,Alugada,3,Médico,B,5000,9.99,0,0.08,N,2
+24,40000,Alugada,8,Médico,C,4500,12.84,0,0.11,N,3
+21,45000,Alugada,2,Educação,A,7000,7.51,0,0.16,N,4
+25,62900,Hipoteca,9,Médico,D,8825,15.7,1,0.12,S,3
+22,40000,Alugada,6,Educação,D,7200,17.58,0,0.18,S,2
+27,59000,Hipoteca,11,Reforma,C,16000,13.98,0,0.27,N,10
+27,25000,Alugada,4,Pessoal,D,8000,14.84,1,0.32,S,7
+22,48000,Hipoteca,4,Médico,B,15000,9.88,0,0.31,N,2
+22,29000,Alugada,2,Educação,B,10500,9.99,1,0.36,N,3
+29,42996,Alugada,5,Empreender,C,6000,15.96,1,0.14,N,9
+22,48609,Alugada,6,"Pagar dívidas",A,12000,7.49,0,0.25,N,3
+27,38400,Alugada,2,Médico,A,7000,7.51,0,0.18,N,6
+35,39000,Alugada,8,Médico,B,5000,9.99,1,0.13,N,6
+36,46000,Alugada,2,"Pagar dívidas",C,10000,12.53,0,0.22,N,14
+27,70000,Alugada,2,Educação,B,10000,10.99,0,0.14,N,6
+24,50000,Hipoteca,7,Empreender,B,7500,11.71,0,0.15,N,4
+22,17280,Alugada,0,Educação,D,3500,NULL,1,0.2,S,4
+23,54000,Alugada,1,Educação,D,10000,14.42,1,0.19,N,3
+24,112140,Alugada,8,Médico,A,21600,7.9,0,0.19,N,2
+23,120000,Alugada,1,Pessoal,B,7000,10.75,0,0.06,N,2
+24,48000,Própria,2,Educação,C,15000,13.06,0,0.31,N,4
+27,68000,Alugada,0,"Pagar dívidas",A,6500,7.51,0,0.1,N,7
+24,75000,Própria,8,Reforma,B,29800,NULL,0,0.4,N,4
+27,83300,Hipoteca,3,Médico,D,12000,15.21,1,0.12,N,6
+27,86000,Alugada,7,"Pagar dívidas",A,15000,6.91,0,0.17,N,5
+22,60000,Alugada,0,Empreender,A,5500,7.88,0,0.09,N,3
+25,80004,Alugada,9,Empreender,C,20000,14.26,0,0.25,N,2
+23,80000,Alugada,3,"Pagar dívidas",A,7200,8.9,0,0.09,N,2
+28,150000,Hipoteca,5,Reforma,A,15000,7.88,0,0.1,N,6
+31,40000,Própria,2,Educação,B,2200,NULL,0,0.06,N,7
+23,65000,Alugada,6,"Pagar dívidas",C,8500,13.35,0,0.13,S,2
+31,25000,Própria,0,"Pagar dívidas",D,2400,14.42,0,0.1,S,8
+22,45000,Alugada,3,Médico,A,5800,7.88,0,0.13,N,3
+24,9600,Alugada,3,Educação,C,1300,12.73,1,0.14,N,2
+37,6000,Própria,3,Empreender,A,1300,6.03,1,0.22,N,11
+30,48996,Alugada,1,Reforma,E,10000,15.45,1,0.2,N,8
+32,79000,Hipoteca,0,Reforma,A,7800,NULL,0,0.1,N,8
+29,87000,Hipoteca,6,Empreender,A,4800,8.94,0,0.06,N,5
+23,45000,Alugada,7,Educação,B,9000,10.65,0,0.2,N,2
+29,42000,Hipoteca,6,Educação,A,5500,7.66,1,0.13,N,10
+33,100000,Hipoteca,16,Médico,B,6000,8.94,NULL,NULL,N,12
+24,24000,Alugada,2,Educação,D,3500,15.65,1,0.15,S,4
+32,106000,Hipoteca,12,Reforma,A,12000,5.79,0,0.11,N,8
+29,60000,Alugada,0,Reforma,A,4000,7.88,0,0.07,N,6
+24,25800,Alugada,0,Médico,A,6000,7.14,0,0.23,N,4
+23,49400,Alugada,0,Educação,A,20000,6.54,1,0.4,N,4
+23,69996,Alugada,7,Educação,B,15000,11.89,0,0.21,N,4
+22,60000,Hipoteca,3,"Pagar dívidas",A,15000,7.49,0,0.25,N,4
+31,85000,Alugada,5,Educação,C,16000,11.34,0,0.19,S,8
+24,64000,Hipoteca,8,Educação,A,5000,7.88,1,0.08,N,4
+25,80000,Hipoteca,0,Empreender,A,12000,6.91,0,0.15,N,2
+22,84000,Hipoteca,3,Educação,A,8000,7.88,0,0.1,N,4
+24,36000,Alugada,8,Empreender,B,8000,11.48,0,0.22,N,4
+26,60000,Alugada,5,Empreender,C,3000,15.62,0,0.05,N,2
+22,36000,Alugada,NULL,Pessoal,A,10000,6.03,0,0.28,N,3
+32,120000,Hipoteca,16,Empreender,B,5600,10.75,0,0.05,N,8
+28,60000,Alugada,3,Educação,B,3600,9.63,0,0.06,N,5
+41,50000,Alugada,0,Pessoal,B,6000,8.88,0,0.12,N,17
+22,50000,Alugada,0,Educação,A,9200,6.92,0,0.18,N,4
+37,117000,Alugada,10,Educação,A,10000,7.66,0,0.09,N,11
+44,42000,Hipoteca,4,Médico,A,13200,6.17,0,0.31,N,14
+24,37000,Alugada,2,Médico,A,7000,7.51,0,0.19,N,4
+25,19200,Alugada,0,Pessoal,C,1825,12.68,0,0.1,S,2
+24,57000,Hipoteca,0,Médico,B,2400,12.69,0,0.04,N,4
+25,58020,Alugada,9,Pessoal,A,2000,6.91,0,0.03,N,4
+23,NULL,Alugada,0,Médico,A,12000,15.68,0,NULL,S,3
+22,24900,Hipoteca,1,Médico,C,5500,13.16,1,0.22,N,2
+23,48000,Alugada,7,"Pagar dívidas",C,3500,13.98,0,0.07,N,4
+26,93492,Alugada,0,"Pagar dívidas",B,20000,9.45,0,0.21,N,4
+29,45000,Hipoteca,7,Pessoal,A,4000,6.17,0,0.09,N,9
+24,56000,Hipoteca,3,Educação,A,15000,8.49,0,0.27,N,2
+30,32004,Alugada,1,Pessoal,B,24250,11.12,1,0.76,N,5
+43,33500,Alugada,4,Pessoal,C,6225,14.79,0,0.19,N,17
+22,24744,Própria,5,Empreender,B,5000,11.89,0,0.2,N,2
+36,46000,Hipoteca,3,Empreender,A,8000,5.42,0,0.17,N,15
+31,80000,Alugada,1,Médico,B,9600,9.91,0,0.12,N,7
+23,50400,Hipoteca,7,Empreender,B,2500,10.99,0,0.05,N,2
+25,50000,Hipoteca,9,"Pagar dívidas",A,18000,7.88,0,0.36,N,4
+29,24960,Alugada,13,Empreender,A,4000,5.42,0,0.16,N,6
+24,44000,Hipoteca,NULL,Médico,A,3600,5.79,0,0.08,N,2
+27,69996,Alugada,3,Reforma,D,10800,14.91,0,0.15,N,6
+27,36000,Alugada,2,Médico,B,2000,11.99,0,0.06,N,8
+24,50000,Alugada,2,Empreender,B,15000,11.36,0,0.3,N,2
+29,120000,Hipoteca,3,Educação,B,20000,11.71,0,0.17,N,5
+37,80000,Hipoteca,8,"Pagar dívidas",A,13000,6.62,0,0.16,N,16
+25,46000,,9,Pessoal,A,35000,13.99,NULL,0.48,N,4
+23,36000,Própria,1,Médico,C,14600,12.61,0,0.41,S,2
+21,24000,Hipoteca,0,Empreender,A,3000,7.9,0,0.13,N,4
+23,44000,Própria,7,Empreender,A,6400,7.51,0,0.15,N,3
+23,51000,Hipoteca,7,Empreender,,5000,11.12,NULL,0.07,N,3
+22,70000,Hipoteca,1,"Pagar dívidas",A,4500,5.42,0,0.06,N,2
+34,128000,Hipoteca,2,"Pagar dívidas",D,3000,NULL,1,0.02,N,10
+33,62000,Alugada,1,Pessoal,A,3000,6.99,0,0.05,N,9
+36,45344,Hipoteca,11,Educação,A,16750,7.88,0,0.37,N,13
+24,54000,Alugada,5,Pessoal,A,2400,8,0,0.04,N,3
+26,116004,Hipoteca,11,Empreender,B,20000,12.21,0,0.17,N,2
+30,52000,Hipoteca,4,Educação,C,4200,NULL,0,0.08,S,6
+29,55000,Hipoteca,13,Médico,C,8000,13.72,0,0.15,N,9
+28,100000,Hipoteca,0,Educação,A,3950,NULL,0,0.04,N,5
+28,215662,Hipoteca,12,Empreender,B,21000,11.99,0,0.1,N,7
+42,48000,Própria,0,Educação,C,3500,14.35,0,0.07,S,17
+24,35000,Alugada,4,Médico,B,5000,11.71,0,0.14,N,3
+27,45000,Própria,9,Pessoal,A,5400,NULL,1,NULL,S,3
+24,102000,Alugada,8,Educação,C,18000,12.53,0,0.18,S,3
+22,20400,Alugada,NULL,Pessoal,B,5000,12.42,0,0.25,N,2
+42,35000,Própria,12,Pessoal,A,2000,7.37,0,0.06,N,14
+NULL,80000,Hipoteca,13,Educação,A,NULL,NULL,0,0.28,N,3
+27,124100,Alugada,3,Médico,C,10175,12.99,1,0.07,N,6
+26,60000,Hipoteca,10,Médico,A,12500,6.92,0,0.21,N,3
+33,87000,Hipoteca,17,Empreender,E,9000,17.93,0,0.1,S,7
+42,78000,Hipoteca,NULL,"Pagar dívidas",A,7000,5.42,1,0.09,N,15
+28,45136,Hipoteca,13,Educação,B,10175,12.69,0,0.23,N,9
+28,80000,Hipoteca,12,"Pagar dívidas",B,12000,12.18,0,0.15,N,5
+36,40000,Própria,4,Empreender,B,14000,10.99,0,0.35,N,16
+27,75000,Alugada,1,Reforma,B,20000,NULL,0,0.27,N,6
+22,45000,Própria,7,Educação,A,6000,6.76,0,0.13,N,2
+27,130000,Alugada,11,Educação,C,12000,15.23,0,0.09,S,10
+30,88800,Hipoteca,14,Educação,A,7000,6.62,0,0.08,N,6
+26,48000,Alugada,2,Educação,B,25000,9.64,1,0.52,N,4
+23,42000,Alugada,4,Pessoal,A,10000,5.42,0,0.24,N,3
+26,100000,Hipoteca,11,Reforma,A,2000,5.42,0,0.02,N,2
+30,36000,Hipoteca,7,Médico,B,15000,11.83,0,0.42,N,5
+22,48000,Hipoteca,6,Educação,A,15000,NULL,0,0.31,N,4
+23,45204,Hipoteca,0,Educação,B,4750,12.21,0,0.11,N,4
+38,35000,Alugada,5,Empreender,D,5000,15.37,0,0.14,S,14
+27,30548,Alugada,0,Pessoal,A,14000,7.88,1,0.46,N,5
+25,45000,Hipoteca,3,"Pagar dívidas",A,4000,8.59,0,0.09,N,3
+30,80004,Alugada,2,"Pagar dívidas",B,10000,12.21,1,0.12,N,6
+30,60000,Alugada,8,Médico,A,5000,NULL,0,0.08,N,8
+30,49641,Hipoteca,9,Pessoal,C,8400,13.11,0,0.17,S,6
+28,77544,Hipoteca,2,Pessoal,E,15000,16.63,0,0.19,S,5
+24,65000,Alugada,2,Reforma,B,11400,11.89,0,0.18,N,3
+36,31000,Alugada,3,Empreender,A,7100,8.9,0,0.23,N,12
+33,45600,Alugada,0,"Pagar dívidas",A,11200,5.79,0,0.25,N,8
+29,72000,Alugada,13,"Pagar dívidas",C,15900,13.04,0,0.22,N,10
+48,50016,Outros,NULL,Médico,B,25000,18.43,1,0.52,,2
+34,87600,Hipoteca,15,Educação,A,15000,8.49,0,0.17,N,6
+28,36000,Hipoteca,12,Médico,C,1925,15.23,0,0.05,S,8
+24,60000,Alugada,1,Pessoal,A,13200,6.62,0,0.22,N,4
+25,62165,Alugada,2,Médico,D,10800,15.65,1,0.15,S,4
+25,35392,Alugada,9,Educação,A,6000,7.4,0,0.17,N,3
+28,108041,Hipoteca,6,Educação,C,5600,13.98,0,0.05,S,7
+30,39996,Hipoteca,2,Pessoal,B,10000,10.75,0,0.25,N,8
+24,44000,Alugada,2,Pessoal,A,10000,7.49,0,0.23,N,2
+30,66120,Hipoteca,10,Pessoal,C,2800,13.57,0,0.04,N,6
+31,101000,Alugada,2,Empreender,C,7500,13.22,0,0.07,N,9
+29,60000,Hipoteca,7,Pessoal,A,8500,6.92,0,0.14,N,6
+25,110004,Hipoteca,9,Reforma,A,15000,7.66,0,0.14,N,4
+22,48000,Alugada,3,Educação,B,5500,11.49,0,0.11,N,4
+31,50402,Hipoteca,4,Empreender,C,3000,13.22,0,0.06,S,10
+25,72000,Hipoteca,1,Reforma,A,2100,7.66,0,0.03,N,3
+27,85000,Hipoteca,9,Médico,B,24000,11.71,0,0.28,N,10
+27,77200,Alugada,0,"Pagar dívidas",B,5425,10.59,1,0.07,N,9
+33,62400,Alugada,4,Educação,B,15000,11.99,0,0.24,N,8
+21,59000,Alugada,1,Educação,A,5500,5.42,0,0.09,N,2
+32,49000,Hipoteca,9,"Pagar dívidas",A,8275,NULL,0,0.17,N,6
+21,52000,Alugada,NULL,Educação,B,5000,NULL,0,0.07,N,7
+31,52000,Alugada,4,Empreender,B,10000,11.83,0,0.19,N,7
+25,84000,Hipoteca,9,Médico,C,20000,15.27,0,0.24,N,3
+35,80004,Hipoteca,0,"Pagar dívidas",B,14400,10.95,0,0.18,N,5
+29,NULL,Hipoteca,13,Pessoal,,15000,15.58,1,0.19,S,4
+40,60000,Hipoteca,1,Reforma,C,3500,12.99,0,0.06,S,14
+36,49896,Hipoteca,8,Empreender,A,2800,NULL,0,0.06,N,17
+23,35500,Hipoteca,0,Médico,C,3000,11.28,0,0.08,S,3
+25,60000,Hipoteca,8,Educação,C,8000,NULL,0,0.13,N,3
+28,103000,Alugada,0,Educação,D,8000,14.61,1,0.08,N,10
+29,58000,Outros,0,Reforma,B,14000,11.83,0,0.24,N,8
+39,60000,Hipoteca,1,Educação,C,17000,14.65,0,0.28,S,14
+26,34000,Alugada,5,Empreender,A,7500,7.9,0,0.22,N,4
+23,39000,Hipoteca,8,Educação,A,10000,7.51,0,0.26,N,2
+33,97000,Alugada,4,Reforma,C,7000,12.98,0,0.07,N,5
+26,45243,Alugada,3,Empreender,B,4800,9.25,0,0.11,N,2
+27,43900,Hipoteca,2,Pessoal,B,14000,10.38,0,0.32,N,10
+24,55000,Alugada,6,"Pagar dívidas",A,10000,8.94,0,0.18,N,3
+22,58000,Alugada,3,Médico,B,12000,NULL,1,0.21,N,3
+25,75996,Hipoteca,9,"Pagar dívidas",B,10000,11.99,0,0.13,N,3
+24,120000,Hipoteca,1,Educação,D,25000,13.99,0,0.21,N,4
+37,44196,Alugada,0,Médico,B,12400,11.26,0,0.28,N,14
+NULL,70000,Alugada,2,"Pagar dívidas",A,10000,14.27,0,0.25,,3
+27,39000,Alugada,4,Educação,D,2000,16.07,0,0.05,N,7
+34,38000,Hipoteca,9,Pessoal,C,14500,12.84,0,0.38,S,6
+35,50000,Alugada,4,Pessoal,B,7000,11.49,0,0.14,N,9
+22,55000,Própria,6,Educação,B,25000,10.74,0,0.45,N,2
+34,78000,Alugada,9,"Pagar dívidas",E,15000,16.4,1,0.19,N,5
+36,45600,Hipoteca,6,Médico,C,10000,13.49,0,0.22,N,16
+22,55000,Própria,1,Empreender,B,10000,10.99,0,0.18,N,3
+34,120000,Alugada,NULL,"Pagar dívidas",A,2000,NULL,NULL,0.04,N,3
+23,30000,Hipoteca,7,Médico,A,4600,7.9,0,0.15,N,3
+22,27264,Alugada,4,Educação,C,5000,13.11,0,0.18,S,3
+34,47818,Alugada,9,Médico,A,6800,6.92,0,0.14,N,9
+24,45000,Alugada,5,Empreender,A,7000,5.42,0,0.16,N,4
+22,55000,Alugada,0,"Pagar dívidas",D,15000,14.83,1,0.27,S,4
+28,150000,Hipoteca,12,Educação,C,10000,NULL,0,0.07,S,6
+25,50000,Alugada,2,Educação,A,12000,7.88,0,0.24,N,4
+25,24000,Própria,7,Reforma,A,6000,5.42,0,0.25,N,4
+30,135000,Hipoteca,14,Pessoal,E,25000,15.25,0,0.19,S,9
+34,25200,Alugada,6,Pessoal,C,12000,13.48,1,0.48,N,10
+31,70000,Hipoteca,5,Educação,A,4000,6.54,0,0.06,N,7
+22,41000,Hipoteca,6,Reforma,A,7000,7.9,1,0.17,N,2
+23,75000,Alugada,6,Educação,A,15000,6.54,0,0.2,N,3
+22,66000,Própria,6,Educação,A,5000,7.9,0,0.08,N,4
+25,42500,Alugada,1,Pessoal,C,8000,NULL,0,0.19,S,4
+27,80500,Alugada,2,Pessoal,A,8000,8.49,0,0.1,N,9
+22,12600,Hipoteca,NULL,Pessoal,A,2000,5.42,1,0.16,N,4
+32,65000,Própria,3,Pessoal,C,4200,NULL,0,0.05,,3
+22,39500,Alugada,3,"Pagar dívidas",C,11000,12.68,0,0.28,S,2
+24,84000,Alugada,8,Médico,B,21000,10.75,0,0.25,N,4
+29,48000,Alugada,1,Médico,A,8800,8.49,0,0.18,N,9
+29,77000,Alugada,0,Educação,A,8225,NULL,0,0.11,N,10
+26,127992,Hipoteca,10,Pessoal,C,26000,13.99,0,0.2,N,2
+28,24000,Hipoteca,12,"Pagar dívidas",A,5000,9.32,0,0.21,N,10
+22,24449,Própria,2,Empreender,B,1800,11.89,0,0.07,N,4
+26,110000,Hipoteca,0,Empreender,A,15600,6.17,0,0.14,N,4
+22,57600,Hipoteca,6,Empreender,B,6000,10.74,0,0.1,N,3
+23,103000,Hipoteca,7,Educação,C,17000,14.35,0,0.17,N,4
+25,42000,Alugada,6,Médico,A,5600,7.49,0,0.13,N,2
+29,70000,Hipoteca,13,Médico,A,10000,6.99,0,0.14,N,10
+23,75000,Alugada,1,Médico,A,6000,6.03,0,0.08,N,3
+30,17280,Hipoteca,0,Pessoal,C,2000,NULL,0,0.12,N,7
+25,46800,Alugada,5,Reforma,C,12000,13.11,1,0.26,S,4
+27,114000,Hipoteca,7,Educação,C,20000,13.06,0,0.18,S,8
+21,30000,Alugada,0,Educação,C,1500,13.92,0,0.05,S,3
+31,258000,Hipoteca,3,Pessoal,A,28000,5.99,0,0.11,N,5
+38,65000,Alugada,4,Reforma,C,4500,13.43,0,0.07,N,12
+39,55000,Alugada,0,Médico,B,3000,10.2,0,0.05,N,15
+23,120000,Alugada,7,Pessoal,B,13000,11.71,0,0.11,N,4
+26,58000,Alugada,10,Educação,C,9600,13.99,0,0.17,S,4
+47,168000,Hipoteca,13,Educação,A,8775,8.49,0,0.05,N,12
+33,62000,Hipoteca,3,Educação,A,3700,6.39,0,0.06,N,7
+30,30000,Alugada,14,Médico,C,12800,14.79,1,0.43,S,9
+30,43000,Alugada,1,Médico,A,3200,8,0,0.07,N,5
+22,90000,Alugada,7,Empreender,A,12000,5.79,0,0.13,N,2
+26,103000,Hipoteca,0,Pessoal,C,14000,13.57,1,0.14,N,4
+30,96053,Hipoteca,15,Médico,D,30000,15.62,1,0.27,N,5
+25,65000,Alugada,2,"Pagar dívidas",B,4200,NULL,0,0.06,N,2
+52,25000,Alugada,23,Médico,D,5000,12.61,1,0.2,S,22
+24,72000,Alugada,3,Educação,A,6000,7.66,0,0.08,N,3
+25,112000,Alugada,7,"Pagar dívidas",B,5000,10.25,0,0.04,N,3
+21,13200,Alugada,2,Reforma,A,4000,6.39,1,0.3,N,3
+23,63000,Alugada,2,Educação,C,18000,13.57,0,0.29,S,3
+22,54000,Hipoteca,4,Médico,B,15000,11.99,0,0.28,N,2
+25,45000,Alugada,4,Médico,B,10000,12.69,0,0.22,N,2
+23,37500,Alugada,0,"Pagar dívidas",A,1800,8.94,0,0.05,N,4
+23,90096,Hipoteca,0,Educação,C,10150,11.97,0,0.11,N,3
+37,56500,Hipoteca,4,Educação,B,10000,NULL,0,0.18,N,13
+32,19200,Alugada,0,Empreender,B,5000,9.99,1,0.26,N,6
+23,75000,Alugada,0,Empreender,B,10000,11.49,0,0.13,N,4
+26,43200,Hipoteca,11,Empreender,C,6000,12.87,0,0.14,N,3
+22,54000,Alugada,4,Educação,E,5000,16.35,1,0.09,S,3
+22,61104,Alugada,6,Educação,B,6000,NULL,0,0.1,N,4
+26,57000,Alugada,10,Médico,B,4100,10.59,0,0.07,N,3
+24,23000,Alugada,0,Reforma,C,8000,13.49,1,0.35,N,4
+24,36000,Alugada,2,"Pagar dívidas",D,5000,14.59,1,0.14,N,2
+40,28800,Alugada,3,Pessoal,C,4200,14.72,1,0.15,S,16
+25,50000,Alugada,8,Educação,C,4800,15.96,0,0.1,N,2
+32,48000,Alugada,3,"Pagar dívidas",C,9000,13.99,0,0.19,N,8
+22,56400,Alugada,2,"Pagar dívidas",A,9500,8.9,0,0.17,N,4
+22,27996,Hipoteca,4,Médico,D,3250,15.21,1,0.12,N,2
+25,67000,Hipoteca,3,Pessoal,A,3000,7.9,0,0.04,N,3
+24,39996,Hipoteca,4,Educação,C,5000,14.82,0,0.13,S,3
+22,66300,Alugada,4,Médico,E,8000,18.39,1,0.1,N,4
+26,46000,Alugada,10,"Pagar dívidas",A,2500,8.49,0,0.05,N,4
+22,34000,Alugada,6,"Pagar dívidas",B,14000,10.62,1,0.41,N,4
+26,24000,Alugada,3,Educação,B,5400,11.49,0,0.23,N,3
+24,27600,Própria,2,Médico,D,10000,NULL,0,0.36,N,2
+29,38000,Hipoteca,NULL,Educação,A,15000,11.12,0,NULL,N,3
+33,90000,Hipoteca,5,Pessoal,A,11400,6.62,0,0.13,N,8
+24,54000,Própria,8,Pessoal,B,10000,10.99,0,0.19,N,3
+22,50000,Hipoteca,6,Pessoal,A,15000,7.9,0,0.3,N,3
+23,44340,Própria,0,Empreender,C,3000,12.98,0,0.07,S,3
+24,NULL,Alugada,8,Empreender,,14000,NULL,0,0.24,N,6
+25,61440,Alugada,9,Empreender,B,8000,10.36,0,0.13,N,4
+35,45000,Hipoteca,2,Empreender,A,1000,NULL,0,0.02,N,10
+28,45678,Própria,12,Pessoal,D,8000,15.58,0,0.18,N,10
+32,42000,Alugada,3,Pessoal,B,2400,9.62,0,0.06,N,7
+24,100000,Outros,1,Médico,B,25000,NULL,0,0.25,N,3
+27,75860,Alugada,9,Médico,B,24000,10.99,1,0.32,N,5
+22,82500,Hipoteca,3,Médico,A,14400,9.32,0,0.17,N,3
+24,73000,Alugada,6,"Pagar dívidas",D,12500,6,1,0.17,N,2
+23,50000,Hipoteca,3,Pessoal,B,10000,10.99,0,0.2,N,3
+21,23000,,0,,B,18000,10.99,1,0.33,N,4
+24,65000,Alugada,1,Médico,B,6400,9.99,0,0.1,N,3
+35,20000,Alugada,0,Educação,D,8500,15.05,1,0.42,S,10
+27,101877,Alugada,9,Empreender,B,12500,11.99,0,0.12,N,7
+23,38004,Alugada,5,Educação,A,5000,6.91,0,0.13,N,4
+23,81000,Hipoteca,8,Pessoal,B,10000,8.88,0,0.12,N,4
+24,84996,Própria,4,"Pagar dívidas",D,8000,15.57,0,0.09,S,4
+33,20000,Alugada,5,Educação,A,3625,6.99,0,0.18,N,9
+28,50000,Alugada,2,Educação,B,15200,10.25,0,0.3,N,10
+21,39900,Alugada,0,Empreender,A,12000,7.9,0,0.3,N,3
+30,190000,Alugada,3,"Pagar dívidas",B,15000,11.48,0,0.08,N,8
+22,24000,Própria,4,Médico,C,4750,NULL,0,0.2,S,4
+27,27000,Alugada,3,Médico,B,6900,9.99,0,0.26,N,7
+29,26400,Hipoteca,7,Médico,A,4800,7.66,0,0.18,N,9
+24,54996,Alugada,0,Reforma,B,5000,10.39,0,0.09,N,2
+23,87000,Hipoteca,7,Educação,A,8000,5.99,0,0.09,N,4
+29,60000,Hipoteca,7,Empreender,A,5000,7.66,0,0.08,N,10
+31,65000,Hipoteca,3,"Pagar dívidas",A,10000,11.03,NULL,NULL,N,3
+28,44000,Alugada,5,Pessoal,C,16000,13.48,1,0.36,N,6
+30,175000,Hipoteca,2,Reforma,A,6000,7.68,0,0.03,N,7
+37,85000,Própria,3,Educação,F,10000,18.43,0,0.12,S,16
+28,28000,Própria,0,Médico,B,3250,12.53,0,0.12,N,9
+24,73000,Hipoteca,3,Médico,A,10000,7.49,0,0.14,N,3
+22,NULL,Alugada,1,Educação,B,1200,9.96,0,0.04,,2
+28,68900,Hipoteca,1,Pessoal,E,18000,17.39,1,0.26,N,7
+23,22300,Própria,1,Médico,B,7500,11.12,0,0.34,N,4
+21,45000,Alugada,3,Pessoal,A,7200,9.38,0,0.16,N,4
+26,108000,Hipoteca,9,Reforma,B,18300,NULL,0,0.17,N,3
+21,24996,Alugada,2,Educação,E,5000,16.45,1,0.2,N,4
+25,42000,Alugada,2,Médico,D,6750,17.27,1,0.16,N,2
+24,110000,Alugada,5,Pessoal,A,12000,7.9,0,0.11,N,2
+24,62900,Alugada,1,Médico,D,16800,15.65,1,0.23,N,4
+31,120000,Alugada,7,Reforma,E,21600,19.03,0,0.18,S,5
+31,85224,Própria,15,Pessoal,B,6000,10,0,0.07,N,9
+21,39900,Alugada,0,Educação,A,12000,7.9,0,0.3,N,4
+NULL,45000,Própria,8,Médico,B,NULL,6.03,0,0.16,N,4
+23,81504,Hipoteca,6,"Pagar dívidas",A,2400,6.92,0,0.03,N,4
+35,110000,Alugada,2,Empreender,B,11500,11.49,0,0.1,N,10
+21,53000,Hipoteca,5,Empreender,C,18000,13.8,0,0.34,S,3
+30,72000,Hipoteca,12,Médico,B,10000,10,0,0.14,N,7
+25,28000,Alugada,0,Médico,B,1800,12.53,0,0.06,N,3
+24,59000,Alugada,1,Educação,A,10000,NULL,0,0.17,N,4
+23,63250,Alugada,1,Educação,B,12000,NULL,0,0.19,N,2
+26,85000,Hipoteca,NULL,Educação,B,6000,9.88,0,0.07,N,3
+22,20008,Alugada,2,Educação,B,10000,10.95,1,0.5,N,2
+25,55000,Hipoteca,10,Educação,C,15000,NULL,0,0.27,S,3
+27,84000,Alugada,0,Empreender,D,2500,14.59,1,0.03,N,9
+24,15000,Alugada,0,Educação,C,2100,13.11,0,0.14,S,4
+25,200000,Hipoteca,3,Empreender,E,35000,17.14,0,0.17,S,3
+30,20000,Alugada,4,Pessoal,C,6800,12.84,1,0.34,N,6
+24,43000,Alugada,2,Médico,C,10000,13.16,0,0.23,N,4
+30,54000,Alugada,13,Médico,B,25000,10.74,1,0.46,N,6
+36,93000,Alugada,1,Médico,C,12000,13.48,0,0.13,N,13
+36,900000,Hipoteca,8,Pessoal,B,6000,NULL,0,0.01,N,12
+30,36000,Alugada,6,"Pagar dívidas",C,4500,13.49,0,0.13,S,6
+23,33300,Própria,2,Empreender,C,9000,13.57,0,0.27,S,4
+29,64548,Hipoteca,3,Médico,B,15000,NULL,0,0.23,N,7
+33,55000,Alugada,1,Educação,C,10725,13.16,0,0.2,N,6
+38,52000,Alugada,6,Educação,A,7000,5.99,0,0.13,N,11
+24,108000,Hipoteca,1,"Pagar dívidas",D,25000,13.99,1,0.23,S,2
+24,35000,Hipoteca,5,"Pagar dívidas",A,4800,5.42,0,0.14,N,3
+21,60000,Alugada,2,Educação,B,8000,11.26,0,0.13,N,3
+42,55308,Própria,8,Empreender,B,2000,11.49,0,0.04,N,15
+35,280000,Hipoteca,19,Reforma,C,21600,12.99,0,0.08,N,8
+28,64000,Hipoteca,7,Educação,B,7000,11.71,0,0.11,N,9
+29,85000,Hipoteca,2,Reforma,A,10000,7.88,0,0.12,N,10
+24,37000,Hipoteca,8,Empreender,B,10000,10.99,0,0.27,N,4
+27,38000,Alugada,1,Médico,C,5850,NULL,0,0.15,N,5
+22,50000,Alugada,6,Empreender,C,18000,13.79,1,0.36,N,2
+24,24000,Alugada,0,Médico,A,6825,5.42,0,0.28,N,4
+23,66912,Hipoteca,7,Pessoal,C,16000,12.73,0,0.24,N,3
+24,55000,Hipoteca,8,Médico,B,15000,9.91,0,0.27,N,3
+50,68000,Hipoteca,5,Pessoal,B,10000,11.49,0,0.15,N,16
+31,48996,Hipoteca,0,Reforma,D,8500,14.11,1,0.17,S,9
+26,58000,Alugada,0,Reforma,A,3500,8.59,0,0.06,N,2
+27,49800,Alugada,3,Pessoal,B,10000,10.74,0,0.2,N,7
+26,150000,Própria,6,Educação,D,7000,14.96,0,0.05,S,4
+23,91000,Hipoteca,5,Empreender,D,10000,16.32,0,0.11,S,3
+43,145000,,1,Empreender,,7000,15.99,0,0.05,S,10
+23,55000,Alugada,3,Educação,D,19200,15.21,1,0.35,N,4
+26,55500,Alugada,3,Médico,C,10000,NULL,0,0.18,S,4
+22,64312,Hipoteca,4,Empreender,D,5000,14.91,0,0.08,S,4
+38,50000,Hipoteca,6,Pessoal,D,3000,15.05,0,0.06,N,12
+25,43000,Alugada,2,Empreender,A,7800,7.14,0,0.18,N,3
+40,86000,Alugada,0,,D,20000,10.51,1,0.33,N,7
+30,39500,Alugada,3,Educação,A,6925,7.88,0,0.18,N,9
+21,68004,Hipoteca,5,"Pagar dívidas",B,16000,11.26,0,0.24,N,3
+25,35000,Própria,9,Pessoal,C,4000,13.11,0,0.11,N,2
+24,24000,Alugada,0,Educação,B,6500,11.36,0,0.27,N,2
+26,53000,Hipoteca,3,Reforma,A,2800,6.03,0,0.05,N,4
+25,27600,Alugada,2,Médico,B,7000,9.76,0,0.25,N,4
+37,45600,Alugada,2,"Pagar dívidas",B,4500,11.86,0,0.1,N,16
+26,70000,Hipoteca,0,Educação,A,7000,7.88,0,0.1,N,4
+21,28596,Hipoteca,3,Pessoal,A,2000,7.29,0,0.07,N,4
+47,33888,Hipoteca,5,Pessoal,A,7000,7.49,0,0.21,N,13
+27,120000,Hipoteca,4,"Pagar dívidas",C,15000,13.49,0,0.13,S,6
+39,37800,Alugada,5,"Pagar dívidas",B,7000,11.49,0,0.19,N,11
+39,55000,Própria,3,Reforma,C,13000,13.98,0,0.24,N,14
+27,53000,Hipoteca,3,Educação,C,6400,13.11,0,0.12,S,8
+21,33000,Alugada,5,Educação,B,9000,12.69,0,0.27,N,3
+26,39996,Alugada,0,Empreender,B,12000,NULL,0,0.3,N,4
+22,49000,Hipoteca,2,Empreender,B,8500,12.53,0,0.17,N,3
+22,30000,Hipoteca,3,Educação,A,5000,6.91,0,0.17,N,3
+26,105000,Hipoteca,0,Pessoal,B,5300,12.69,0,0.05,N,4
+25,12996,Própria,1,Médico,D,3600,14.59,1,0.28,N,3
+25,85000,Alugada,1,Educação,A,12000,NULL,0,0.14,N,2
+24,50000,Alugada,8,Empreender,B,16000,10.62,1,0.32,N,2
+24,55782,Alugada,3,Reforma,A,17000,7.51,0,0.3,N,2
+28,86000,Hipoteca,12,Empreender,A,15600,5.99,0,0.18,N,7
+27,75000,Hipoteca,0,Reforma,D,23200,NULL,0,0.31,N,9
+23,84000,Hipoteca,2,Educação,D,20000,12.61,0,0.24,S,2
+40,80000,Alugada,0,Pessoal,A,6000,8.94,0,0.07,N,11
+24,67000,Própria,3,Empreender,C,13000,NULL,0,0.19,S,3
+34,84000,Alugada,3,Educação,A,9000,5.79,0,0.11,N,10
+44,48000,Alugada,0,Médico,C,5000,13.43,0,0.1,N,17
+23,25000,Própria,5,Médico,A,7200,8.49,0,0.29,N,2
+38,151000,Hipoteca,8,"Pagar dívidas",A,35000,8.9,0,0.23,N,12
+36,50000,Alugada,5,Educação,A,6500,NULL,0,0.13,N,15
+24,66000,Alugada,2,Pessoal,D,18000,14.54,1,0.27,S,4
+31,47000,Alugada,5,Educação,B,10000,11.99,0,0.21,N,8
+27,27000,Hipoteca,4,Empreender,A,4300,5.99,0,0.16,N,6
+22,81000,Própria,2,Educação,D,10000,15.31,0,0.12,N,3
+27,65000,Hipoteca,2,"Pagar dívidas",B,10000,12.53,0,0.15,N,7
+33,51000,Alugada,17,Médico,D,5000,14.96,1,0.1,S,9
+29,71000,Alugada,1,"Pagar dívidas",C,12000,13.16,0,0.17,S,9
+23,120000,Hipoteca,7,Empreender,C,6000,13.06,0,0.05,N,4
+35,81000,Hipoteca,15,"Pagar dívidas",B,5400,NULL,0,0.07,N,5
+29,50000,Hipoteca,4,Médico,B,21850,12.42,0,0.44,N,10
+33,68000,Hipoteca,NULL,Pessoal,B,5000,NULL,1,0.08,N,16
+28,64900,Hipoteca,12,"Pagar dívidas",D,25000,15.37,1,0.39,N,6
+22,27996,Alugada,1,Empreender,E,5000,17.51,1,0.18,N,4
+29,55000,Hipoteca,4,Pessoal,A,3600,6.92,0,0.07,N,10
+24,54400,Hipoteca,8,"Pagar dívidas",C,12000,NULL,0,0.22,S,4
+29,33996,Alugada,11,Educação,C,4000,13.47,1,0.12,N,7
+25,18840,Hipoteca,5,Educação,B,3000,9.91,1,0.16,N,2
+20,77000,Hipoteca,4,Empreender,A,6000,8,0,0.08,N,2
