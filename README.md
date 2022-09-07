@@ -18,7 +18,7 @@ As inconsistências que encontrei no banco de dados foram:
 
 A forma que encontrei para exportar a tabela foi:
 
-- chamar a tabela, selecionar a opção "Sem limite" de linhas selecionadas e clicar em 'Export'.
+- chamar a tabela, selecionar a opção "Sem limite" de linhas e clicar em 'Export'.
 
 ![mysql_export_csv](https://user-images.githubusercontent.com/67301805/188746963-638ecd14-ed86-4155-9df3-8763dd08fc60.jpg)
 
