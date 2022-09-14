@@ -4,7 +4,7 @@
 
 A proposta do Challenge é simular o desenvolvimento de um projeto, que neste caso é fazer um estudo para reduzir o número de inadimplência no banco Alura Cash.
 
-| :placard: Vitrine.Dev |  [Fabiana Souza](https://cursos.alura.com.br/vitrinedev/fabdesouza)  |
+| :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge Data Science - 2ª edição**
 | :label: Tecnologias | MySQL, Python
