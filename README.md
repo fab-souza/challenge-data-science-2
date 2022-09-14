@@ -7,12 +7,12 @@ A proposta do Challenge é simular o desenvolvimento de um projeto, que neste ca
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge Data Science - 2ª edição**
-| :label: Tecnologias | MySQL, Python
+| :label: Tecnologias | mysql, python
 | :rocket: URL         | https://github.com/fab-souza/challenge-data-science-2/
 | :fire: Desafio     | [Alura Challenges](https://www.alura.com.br/challenges/dados?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BChallenge+Dados%5D+Alura+Ca%24h+quer+contratar+voc%C3%AA%21&utm_campaign=%5BCHALLANGE%5D%28Dados+1a+ed+%29+Divulga%C3%A7%C3%A3o+para+base+de+alunos&vgo_ee=n7iuVgozRkd2hCVGucz92PlMy%2BOWWuyaZunZiCXh6gI%3D)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![challenge](https://user-images.githubusercontent.com/67301805/189999297-aa84545f-f8f9-471b-8b5c-a3ee5dd6c134.jpg?text=imagem#vitrinedev)
+![](https://user-images.githubusercontent.com/67301805/189999297-aa84545f-f8f9-471b-8b5c-a3ee5dd6c134.jpg?text=imagem#vitrinedev)
 
 
 ### Semana 1:
