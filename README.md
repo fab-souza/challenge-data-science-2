@@ -39,4 +39,5 @@ Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dad
 
 ![idade-100](https://user-images.githubusercontent.com/67301805/190916612-29734bb2-b6ab-479b-bf5b-afa8d4913aea.jpg)
 
+![trabalho-100](https://user-images.githubusercontent.com/67301805/190916664-39dcf298-6c49-49b4-bf7b-43de1de01c6f.jpg)
 
