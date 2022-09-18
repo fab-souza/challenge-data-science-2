@@ -36,3 +36,7 @@ A forma que encontrei para exportar a tabela foi:
 ### Semana 2:
 
 Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dados nulos e tratar os outliers. Além de analisar correlações, normalizar variáveis, criação de modelos de classificação e exportar o modelo.
+
+![idade-100](https://user-images.githubusercontent.com/67301805/190916612-29734bb2-b6ab-479b-bf5b-afa8d4913aea.jpg)
+
+
