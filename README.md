@@ -6,7 +6,7 @@ A proposta do Challenge é simular o desenvolvimento de um projeto, que neste ca
 
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
-| :sparkles: Nome        | **Challenge Data Science - 2ª edição**
+| :sparkles: Nome        | **Challenge Data Science**
 | :label: Tecnologias | mysql, python
 | :rocket: URL         | https://github.com/fab-souza/challenge-data-science-2/
 | :fire: Desafio     | [Alura Challenges](https://www.alura.com.br/challenges/dados?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BChallenge+Dados%5D+Alura+Ca%24h+quer+contratar+voc%C3%AA%21&utm_campaign=%5BCHALLANGE%5D%28Dados+1a+ed+%29+Divulga%C3%A7%C3%A3o+para+base+de+alunos&vgo_ee=n7iuVgozRkd2hCVGucz92PlMy%2BOWWuyaZunZiCXh6gI%3D)
