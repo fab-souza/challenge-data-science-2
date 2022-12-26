@@ -2,8 +2,6 @@
 
 ![Badge Em-desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLUE&style=for-the-badge)
 
-A proposta do Challenge é simular o desenvolvimento de um projeto, que neste caso é fazer um estudo para reduzir o número de inadimplência no banco Alura Cash.
-
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge Data Science**
@@ -14,6 +12,10 @@ A proposta do Challenge é simular o desenvolvimento de um projeto, que neste ca
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://user-images.githubusercontent.com/67301805/189999297-aa84545f-f8f9-471b-8b5c-a3ee5dd6c134.jpg?text=imagem#vitrinedev)
 
+## Sobre o Challenge 📚
+A proposta do Challenge é simular o desenvolvimento de um projeto, que neste caso é fazer um estudo para reduzir o número de inadimplência no banco Alura Cash.
+
+## Minha prática 👩🏻‍💻
 
 ### Semana 1:
 
@@ -41,3 +43,8 @@ Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dad
 
 ![trabalho-100](https://user-images.githubusercontent.com/67301805/190916664-39dcf298-6c49-49b4-bf7b-43de1de01c6f.jpg)
 
+## Ferramentas utilizadas 🧰
+<p> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
+    </p>
