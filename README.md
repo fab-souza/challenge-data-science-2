@@ -43,6 +43,27 @@ Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dad
 
 ![trabalho-100](https://user-images.githubusercontent.com/67301805/190916664-39dcf298-6c49-49b4-bf7b-43de1de01c6f.jpg)
 
+
+
+
+
+### Semana 3 e 4:
+
+- Analisando métricas: criando visualizações com o Power BI;
+
+- Criar uma API para disponibilizar o modelo no Power BI;
+
+- Conectar a API do modelo de Machine Learning no Power BI;
+
+- Criar parâmetros para receber os dados do cliente;
+
+- Analisar os dados através de gráficos;
+
+- Estilizar o dashboard.
+
+
+
+
 ## Ferramentas utilizadas 🧰
 <p> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40"/>
