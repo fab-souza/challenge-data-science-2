@@ -35,6 +35,8 @@ A forma que encontrei para exportar a tabela foi:
 
 ![mysql_export_csv](https://user-images.githubusercontent.com/67301805/188746963-638ecd14-ed86-4155-9df3-8763dd08fc60.jpg)
 
+---
+
 ### Semana 2:
 
 Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dados nulos e tratar os outliers. Além de analisar correlações, normalizar variáveis, criação de modelos de classificação e exportar o modelo.
@@ -46,6 +48,7 @@ Os desafios da segunda semana consitiam em tratar os dados, ou seja, remover dad
 
 
 
+---
 
 ### Semana 3 e 4:
 
