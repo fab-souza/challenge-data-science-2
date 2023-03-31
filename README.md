@@ -2,6 +2,8 @@
 
 ![Badge Em-desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLUE&style=for-the-badge)
 
+![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/challenge-data-science-2)
+
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge Data Science**
